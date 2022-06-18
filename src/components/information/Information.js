@@ -1,10 +1,11 @@
 import React from 'react';
 
+import Services from "./Services";
 
 const Information = () => {
     return (
-        <div className='h-screen xl:mb-3'>
-
+        <div>
+            <Services />
         </div>
     );
 };
