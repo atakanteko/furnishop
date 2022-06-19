@@ -30,7 +30,7 @@ const Services = () => {
                 </div>
             </div>
             <div className='xl:order-1 mt-11 xl:mt-0'>
-                <div className='overflow-hidden rounded-md bg-green-700'>
+                <div className='overflow-hidden rounded-md'>
                     <img src={infoImage} alt='info-image'/>
                 </div>
             </div>
