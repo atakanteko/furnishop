@@ -15,3 +15,18 @@ A
 src/index.js,f/9/f900edc44cb929c2267a16100a32851f6d5b477d
 W
 'src/assets/icons/mobile-menu-toggle.svg,0/5/05215a25b839444edfd8f5c343109060aae1a24d
+:
+
+src/App.js,1/e/1e43fa63aecd2127be034b3fb9d4caa172275714
+B
+tailwind.config.js,0/9/0918cbb76f2c44f223706cec9d31a32cd1177ce4
+O
+src/assets/static/navigation.js,3/e/3e4275e88df151e95539076d50e07f64dd9f44c6
+S
+#src/components/home-page/Landing.js,d/f/df950620e381cd5ed898079548eb0cb51571258b
+;
+src/App.css,a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
+P
+ src/assets/static/information.js,9/f/9f158e7e2fcce0b3691191dc4b630cc8902bff1e
+N
+src/assets/icons/checklist.svg,f/3/f3b02b9f3b3187ebbfdd086b02821858c340ca3c
